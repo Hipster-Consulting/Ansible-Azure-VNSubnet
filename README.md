@@ -9,7 +9,7 @@ This Repo Creates Azure Virtual Network SubNet. Azure Credentials is managed by 
 {
 Azure_Resource_Group: ''
 Azure_VN_Name: ''
+Azure_Subnet_Prefix: ''
 Azure_SubNet_Name: ''
-Azure_VN_Name: ''
 }
 ```
